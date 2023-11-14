@@ -1,0 +1,11 @@
+We analyzed 2 cSV files provided with schools and students informstion from a school district. We made a lot of calculations from the data to extract the relevant parts and tried to find correlation between various factors and how students performed in Math and Reading.
+
+
+We can draw following conclusions based on the Scores calculated based on School Type and School Size
+ 	
+* Charter schools have a much better Passing % in both Math and Reading than District Schools.
+* Large Schools with 2000-5000 students have a much lower passing % than small or medium schools.
+
+One interesting observation was that having higher average per student budget in schools, the overall Passing % was lower. 
+
+
