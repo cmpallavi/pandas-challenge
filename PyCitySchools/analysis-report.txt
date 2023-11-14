@@ -8,4 +8,4 @@ We can draw following conclusions based on the Scores calculated based on School
 
 One interesting observation was that having higher average per student budget in schools, the overall Passing % was lower. 
 
-
+Based on grade wise analysis of the scores, there is no improvement in any of the schools in the district.
